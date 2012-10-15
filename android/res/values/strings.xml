@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="not_established">CONNECTION_NOT_ESTABLISHED</string>
+    <string name="app_name">LEDControllerProofOfConcept</string>
+    <string name="established">CONNECTION_ESTABLISHED</string>
+    <string name="idling">BOT_IDLING</string>
+    <string name="moving">BOT_MOVING</string>
+    <string name="connected">Arduino connected!</string>
+    <string name="not_connected">Arduino not connected!</string>
+    <string name="error">Connection Error!</string>
+    <string name="version">V1</string>
+
+</resources>
